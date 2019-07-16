@@ -1,5 +1,5 @@
 module.exports = {
-    commands: {
-        prelink: "node ./node_modules/react-native-spinkit/scripts/rnpm-prelink.js",
+    hooks: {
+        prelink: "./node_modules/@fisherwise/react-native-spinkit/scripts/rnpm-prelink.js",
     },
 };
