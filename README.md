@@ -6,6 +6,8 @@
 A collection of animated loading indicators   
 React native port of [SpinKit](http://tobiasahlin.com/spinkit/).
 
+This is a forked version of [the original](https://github.com/maxs15/react-native-spinkit) package with more PR merged.
+
 ## Preview
 ![](http://i.imgur.com/AwJsakU.gif)
 
